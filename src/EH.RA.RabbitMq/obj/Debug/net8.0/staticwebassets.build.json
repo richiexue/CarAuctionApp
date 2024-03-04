@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U/58MIl0HjJbfl3qJUKyj8kbTdVH7tth6/74j37SLWE=",
+  "Source": "EH.RA.RabbitMq",
+  "BasePath": "_content/EH.RA.RabbitMq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
